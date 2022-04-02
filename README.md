@@ -45,3 +45,7 @@ s = Seperation between inner ring and outer ring in mm
 
 c0 = 3*10^11; % Speed of light in mm/s
 E0 = (1/36*pi)*10^-12; % Absolute Permittivity in F/mm
+
+## Referance
+1. [C. Saha and J. Y. Siddiqui, "A comparative analyis for split ring resonators of different geometrical shapes," 2011 IEEE Applied Electromagnetics Conference (AEMC), 2011, pp. 1-4, doi: 10.1109/AEMC.2011.6256871](https://ieeexplore.ieee.org/document/6256871).
+2. [Saha, C. and Siddiqui, J.Y. (2011), Versatile CAD formulation for estimation of the resonant frequency and magnetic polarizability of circular split ring resonators. Int J RF and Microwave Comp Aid Eng, 21: 432-438](https://onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fmmce.20533).
