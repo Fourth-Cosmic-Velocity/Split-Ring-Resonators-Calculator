@@ -5,7 +5,6 @@ MATLAB code to calculate the resonance frequency of Hexagonal, Circular and Squa
 
 Er = Relative Permittivity of Substrate
 
-
 h = Height of the substrate in mm
 GC = Gamma value for C-SRR ( A constant which varies with geometry( 2.451 for C-SRR)
 rext = Radius to the outer boundaty of outer ring in mm
